@@ -12,6 +12,7 @@ function logShout(string)
 {
   string=string.toUpperCase()
 console.log('${string}')
+reutrn string.toUpperCase()
 }
 
 function logWhisper(string)
