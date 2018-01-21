@@ -16,7 +16,7 @@ return string.toUpperCase()
 
 function logWhisper(string)
 {
-  console.log('${string.toLowerCase()}')
+  console.log('${string}')
   return string.toLowerCase()
 }
 
